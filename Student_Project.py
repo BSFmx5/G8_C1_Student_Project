@@ -1,13 +1,14 @@
 import turtle
-
 turtle.penup()
-turtle.setposition(100,100)
+turtle.setposition(-200, 200)
 turtle.pendown()
-turtle.pencolor()#write the color of pen
+turtle.pencolor()
+#write the color of pen in inverted commas
 turtle.circle(100)
-
 turtle.penup()
-turtle.setposition()#write the location here
+turtle.setposition()
+#write the location to fill the gap
 turtle.pendown()
-turtle.pencolor()#write the color of pen
+turtle.pencolor()
+#write the color of pen in inverted commas
 turtle.circle(200)
