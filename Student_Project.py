@@ -1,7 +1,7 @@
 import turtle
 
 turtle.penup()
-turtle.setposition(#write the location here)
+turtle.setposition(100,100)
 turtle.pendown()
 turtle.pencolor("red")
 turtle.circle(100)
