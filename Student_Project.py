@@ -3,12 +3,12 @@ turtle.penup()
 turtle.setposition(-200, 200)
 turtle.pendown()
 turtle.pencolor()
-#write the color of pen in inverted commas
+#escribe el color del bolígrafo entre comillas
 turtle.circle(100)
 turtle.penup()
 turtle.setposition()
-#write the location to fill the gap
+#escribe la ubicación para llenar el espacio
 turtle.pendown()
 turtle.pencolor()
-#write the color of pen in inverted commas
+#escribe el color del bolígrafo entre comillas
 turtle.circle(200)
